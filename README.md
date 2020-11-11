@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2> Hey there! I'm Furkan.</h2>
+ <h2> Hey there!👋 I'm Furkan.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

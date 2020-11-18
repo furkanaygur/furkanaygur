@@ -4,7 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at FIRAT University.
-- 🌱 &nbsp; Learning more about Machine Learning and Backend Technologies.
+- 🌱 &nbsp; Learning more about Machine Learning.
+- 🌱 &nbsp; Also learning Frontend and Backend Technologies to publish my projects 
 
 <h3>🛠 Tech Stack</h3>
 

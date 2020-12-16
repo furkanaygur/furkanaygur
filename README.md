@@ -1,4 +1,6 @@
- <h2> Hey there!👋 I'm Furkan.</h2>
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 

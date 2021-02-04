@@ -19,7 +19,7 @@
 
 <br/>
 
-[![furkanaygur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanaygur&show_icons=true)](https://github.com/furkanaygur)
+[![furkanaygur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanaygur&show_icons=true&theme=tokyonight)](https://github.com/furkanaygur)
 
 <h3> 🤝🏻 Connect with Me </h3>
 

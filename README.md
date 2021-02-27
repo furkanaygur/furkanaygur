@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 

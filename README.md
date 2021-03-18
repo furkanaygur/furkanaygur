@@ -26,5 +26,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/furkan-aygür-971047193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Furkan%20AYGUR-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:furkan.aygur.1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-furkan.aygur.1@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a  href ="https://www.codewars.com/users/furkanaygur"> <img align="right" src="https://www.codewars.com/users/furkanaygur/badges/micro"><a/>
 </p>
 

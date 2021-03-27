@@ -26,7 +26,7 @@
 [<img target="_blank" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-64.png"/>](https://furkanaygur.netlify.app)
 
 <p align="left"> 
-  ![](https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=blue)
+  (https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=blue)
   <a  href ="https://www.codewars.com/users/furkanaygur"> <img align="right" src="https://www.codewars.com/users/furkanaygur/badges/micro"><a/>
 </p>
 

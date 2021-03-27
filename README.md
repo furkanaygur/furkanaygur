@@ -21,11 +21,13 @@
 
 [![furkanaygur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanaygur&show_icons=true&theme=tokyonight)](https://github.com/furkanaygur)
 
-<h3> 🤝🏻 Connect with Me </h3>
+## :mailbox: Contact Me:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/furkan-aygür-971047193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Furkan%20AYGUR-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:furkan.aygur.1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-furkan.aygur.1@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[<img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:furkan.aygur.1@gmail.com)
+[<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/furkanaygur/)
+[<img target="_blank" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-64.png"/>](https://furkanaygur.netlify.app)
+
+<p align="left"> 
   <a  href ="https://www.codewars.com/users/furkanaygur"> <img align="right" src="https://www.codewars.com/users/furkanaygur/badges/micro"><a/>
 </p>
 

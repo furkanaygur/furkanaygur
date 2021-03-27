@@ -25,8 +25,8 @@
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/furkanaygur/)
 [<img target="_blank" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-64.png"/>](https://furkanaygur.netlify.app)
 
+![](https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=green)
 <p align="left"> 
-  (https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=blue)
   <a  href ="https://www.codewars.com/users/furkanaygur"> <img align="right" src="https://www.codewars.com/users/furkanaygur/badges/micro"><a/>
 </p>
 

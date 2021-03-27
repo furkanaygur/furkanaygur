@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=blue)
-
+<h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -27,7 +26,7 @@
 [<img target="_blank" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-64.png"/>](https://furkanaygur.netlify.app)
 
 <p align="left"> 
-  <h2> Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  ![](https://komarev.com/ghpvc/?username=your-github-furkanaygur&color=blue)
   <a  href ="https://www.codewars.com/users/furkanaygur"> <img align="right" src="https://www.codewars.com/users/furkanaygur/badges/micro"><a/>
 </p>
 

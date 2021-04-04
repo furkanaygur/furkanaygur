@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Laravel
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 

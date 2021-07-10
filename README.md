@@ -5,15 +5,15 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Engineering at FIRAT University.
-- 🌱 &nbsp; Learning more about Machine Learning.
-- 🌱 &nbsp; Also learning Frontend and Backend Technologies to publish my projects 
+- 🌱 &nbsp; Learning more about Software and System Security also interested in Machine Learning.
+- 🌱 &nbsp; Learning Frontend and Backend Technologies to publish my projects 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C/C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP | Laravel
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git 
+- 🔧 &nbsp; Git | Docker
 
 <br/>
 

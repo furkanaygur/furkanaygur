@@ -3,10 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software Engineering at FIRAT University.
-- 🌱 &nbsp; Learning more about Software and System Security also interested in Machine Learning.
-- 🌱 &nbsp; Learning Frontend and Backend Technologies to publish my projects 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and application security solutions.
+- 🌱 &nbsp; Learning more about Software and System Security.
+- 🌱 &nbsp; Learning Frontend and Backend Technologies to publish my projects and to keep safe them
 
 <h3>🛠 Tech Stack</h3>
 
